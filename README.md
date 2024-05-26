@@ -21,6 +21,7 @@
 
 <h3 align="left">Skills</h3>
 
+<hr/>
 <h4 align="left">Languages:</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;&nbsp;
@@ -43,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" alt="nextjs" width="100" height="40"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" alt="fastapi" width="100" height="40"/> &nbsp;&nbsp;
 </p>
 <hr/>
 
@@ -78,6 +79,7 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  &nbsp;&nbsp;
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>  &nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="visual studio code" width="140" height="40"/> &nbsp;&nbsp;
 </p>
 <hr/>
 
@@ -92,6 +94,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>  &nbsp;&nbsp;
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge" alt="Android Studio" width="140" height="40"/>  &nbsp;&nbsp;
 </p>
 <hr/>
 <br/>
