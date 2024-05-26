@@ -10,6 +10,8 @@
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredo-barquero-herrera-17bb29258)
 
+  **Correo:** `wilfredo.barquero.herrera@gmail.com`
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
